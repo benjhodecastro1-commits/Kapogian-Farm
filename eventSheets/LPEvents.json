@@ -1,0 +1,30 @@
+{
+	"name": "LPEvents",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-tap-object",
+					"objectClass": "Touch",
+					"sid": 606644506322209,
+					"parameters": {
+						"object": "BtnPlay"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "go-to-layout",
+					"objectClass": "System",
+					"sid": 891710497505500,
+					"parameters": {
+						"layout": "FarmLayout"
+					}
+				}
+			],
+			"sid": 461571497492545
+		}
+	],
+	"sid": 164279886491085
+}

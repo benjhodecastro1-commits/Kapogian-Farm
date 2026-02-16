@@ -105,7 +105,12 @@
 			"Sprite",
 			"Mouse",
 			"PanelBase",
-			"Keyboard"
+			"Keyboard",
+			"LandingPageBG",
+			"BtnPlay",
+			"BtnOption",
+			"BtnConnect",
+			"BtnExit"
 		],
 		"subfolders": [
 			{
@@ -221,13 +226,15 @@
 	},
 	"layouts": {
 		"items": [
-			"FarmLayout"
+			"FarmLayout",
+			"LandingPage"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"FarmEvents"
+			"FarmEvents",
+			"LPEvents"
 		],
 		"subfolders": []
 	},
