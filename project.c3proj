@@ -117,7 +117,8 @@
 				"items": [
 					"Chicken",
 					"goatHarap",
-					"Goat"
+					"Goat",
+					"Pig"
 				],
 				"subfolders": [],
 				"name": "Animals"
@@ -127,7 +128,11 @@
 					"LifeBarBG",
 					"LifeBarBGChicken",
 					"LifeBarFill",
-					"LifeBarFillChiken"
+					"LifeBarFillChiken",
+					"LifeBarBGGoat",
+					"LifeBarFillGoat",
+					"LifeBarFillPig",
+					"LifeBarBGPig"
 				],
 				"subfolders": [],
 				"name": "Lifesystem"
@@ -147,7 +152,9 @@
 				"items": [
 					"Cloud",
 					"Leaves",
-					"Butterfly"
+					"Butterfly",
+					"StoreInteractionZone",
+					"ShopButton"
 				],
 				"subfolders": [],
 				"name": "Frontthings"
@@ -184,6 +191,15 @@
 				],
 				"subfolders": [],
 				"name": "Stats"
+			},
+			{
+				"items": [
+					"StorePanel",
+					"CloseButton",
+					"MarketText"
+				],
+				"subfolders": [],
+				"name": "store"
 			}
 		]
 	},
