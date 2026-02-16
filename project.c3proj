@@ -196,6 +196,24 @@
 				],
 				"subfolders": [],
 				"name": "Stats"
+<<<<<<< Updated upstream
+=======
+			},
+			{
+				"items": [
+					"StorePanel",
+					"CloseButton",
+					"MarketText",
+					"Storebox",
+					"Storebox2",
+					"Buy",
+					"Sell",
+					"Storebox3",
+					"TradeText"
+				],
+				"subfolders": [],
+				"name": "store"
+>>>>>>> Stashed changes
 			}
 		]
 	},
