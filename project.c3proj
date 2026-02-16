@@ -105,12 +105,7 @@
 			"Sprite",
 			"Mouse",
 			"PanelBase",
-			"Keyboard",
-			"LandingPageBG",
-			"BtnPlay",
-			"BtnOption",
-			"BtnConnect",
-			"BtnExit"
+			"Keyboard"
 		],
 		"subfolders": [
 			{
@@ -196,8 +191,6 @@
 				],
 				"subfolders": [],
 				"name": "Stats"
-<<<<<<< Updated upstream
-=======
 			},
 			{
 				"items": [
@@ -213,7 +206,6 @@
 				],
 				"subfolders": [],
 				"name": "store"
->>>>>>> Stashed changes
 			}
 		]
 	},
@@ -233,15 +225,13 @@
 	},
 	"layouts": {
 		"items": [
-			"FarmLayout",
-			"LandingPage"
+			"FarmLayout"
 		],
 		"subfolders": []
 	},
 	"eventSheets": {
 		"items": [
-			"FarmEvents",
-			"LPEvents"
+			"FarmEvents"
 		],
 		"subfolders": []
 	},
